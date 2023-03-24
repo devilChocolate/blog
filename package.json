@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devilChocolate/blog.git"
+  },
+  "author": "wangkai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devilChocolate/blog/issues"
+  },
+  "homepage": "https://github.com/devilChocolate/blog#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.9",
+    "vuepress-theme-reco": "^1.6.17"
+  }
+}
